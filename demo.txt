@@ -2,10 +2,11 @@ this is line 1 of master
 this is line 2 of master
 this is line 3 of master
 this is line 4 of master
-<<<<<<< HEAD
+
 
 
 
 this is line 1  in branch ram
-=======
->>>>>>> 3cfaff53dad19abf1f851942e11e2b042bd880fb
+
+this is line 5 of master
+
