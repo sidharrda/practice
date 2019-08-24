@@ -2,3 +2,4 @@ this is line 1 of master
 this is line 2 of master
 this is line 3 of master
 this is line 4 of master
+this is line 5 of master
